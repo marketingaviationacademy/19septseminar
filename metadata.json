@@ -1,0 +1,7 @@
+{
+  "name": "Airways Aviation Career Guidance Seminar",
+  "description": "Interactive educational career guidance presentation for Little Flower future pilots by Airways Aviation India – Hyderabad.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
